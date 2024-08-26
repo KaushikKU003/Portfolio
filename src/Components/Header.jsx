@@ -381,7 +381,7 @@ const Header = () => {
         </p>
         <div className="flex gap-4 mt-4">
           <div className="text-gray-900 dark:text-white transition-transform duration-300 transform hover:scale-125">
-            <a href="https://github.com/KaushikKU003/RENEWABLE_ENERGY_PROJECT.gi">
+            <a href="https://github.com/KaushikKU003/RENEWABLE_ENERGY_PROJECT.git">
               <box-icon type="logo" name="github" size="sm"></box-icon>
             </a>
           </div>
