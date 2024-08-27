@@ -326,9 +326,6 @@ const Header = () => {
                     className="h-full w-full object-contain mt-4"
                   />
                 </li>
-                <li className="flex items-center justify-center transition-transform duration-300 transform hover:scale-125">
-                  <box-icon type="logo" name="docker" size="lg"></box-icon>
-                </li>
               </ul>
             </div>
           </div>
